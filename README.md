@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**HARSHA719/HARSHA719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harsha, a CS undergrad based in Chennai, India.
 
-Here are some ideas to get you started:
+I learn by building. If something interests me, I'll figure it out and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is DSA, Python, and full-stack development — actively prepping for SDE placements at top tech companies.
+
+My main stack is Python, FastAPI, and Docker. I'm also picking up TypeScript and exploring AI/ML on the side.
+
+
+
+**Fun Facts:**
+- I learn best from YouTube (shoutout Striver and NeetCode)
+- I like clean code more than clever code
+- Currently solving problems every single day
+
+**Currently working on:**
+- DSA grind — Arrays, Strings, Linked Lists, DP
+- Building full-stack projects to strengthen my resume
+- Learning System Design fundamentals
+
+You can reach me at neelaharshavardhanreddy@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/harshavardhan-reddy-neela/).
